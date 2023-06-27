@@ -1,0 +1,11 @@
+
+Tweet
+Post
+Share
+Save
+Print
+Until recently, the conventional wisdom was that while AI was better than humans at data-driven decision making tasks, it was still inferior to humans for cognitive and creative ones. But in the past two years language-based AI has advanced by leaps and bounds, changing common notions of what this technology can do.
+
+The most visible advances have been in what’s called “natural language processing” (NLP), the branch of AI focused on how computers can process language like humans do. It has been used to write an article for The Guardian, and AI-authored blog posts have gone viral — feats that weren’t possible a few years ago. AI even excels at cognitive tasks like programming where it is able to generate programs for simple video games from human instructions.
+
+Yet while these stunts may be attention grabbing, are they really indicative of what this tech can do for businesses?
